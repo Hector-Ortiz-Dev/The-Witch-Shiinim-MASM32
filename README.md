@@ -1,43 +1,50 @@
-# The Witch Shiinim
+# The Witch Shiinim - Videojuego en Ensamblador
 
-"The Witch Shiinim" es un emocionante juego de disparos con vista desde arriba desarrollado en lenguaje ensamblador x86 con la librería MASM32.
+¡Bienvenido al repositorio de "The Witch Shiinim"! Este es un videojuego desarrollado como parte del curso de Lenguaje Ensamblador en la Licenciatura en Multimedia y Animación Digital de la Facultad de Ciencias Físicas y Matemáticas de la Universidad Autónoma de Nuevo León.
 
-## Características Principales
+🧙‍♀️ **Descripción del Juego**
+"The Witch Shiinim" es un emocionante videojuego de disparos en perspectiva desde arriba. En este juego, tu objetivo principal es derrotar a los enemigos para completar el nivel. Ten cuidado, ya que cada vez que tocas a un enemigo, pierdes vidas. Sin embargo, puedes recuperar vida recolectando objetos dentro del juego.
 
-- **Género de Juego:** Top-Down Shooter
-- **Estilo de Juego:** Disparos con vista desde arriba.
-- **Nivel Único:** El juego se desarrolla en un único nivel en un bosque.
-- **Enemigos: Existen 2 tipos de enemigos: Slugs que se mueven hacia el jugador, suelen lentos y Phantom quien se trata de un enemigo rápido que acaba con el jugador de un solo golpe. Todos los enemigos se generan en ubicaciones aleatorias.
-- **Objetivo:** Derrota a todos los enemigos para completar el nivel.
-- **Controles:** Utiliza las teclas WASD para moverte y la tecla de ESPACIO para disparar.
+🕹️ **Características Destacadas**
+- Desarrollado en lenguaje ensamblador con la librería MASM32.
+- Juego de disparos con vista desde arriba.
+- Género: Top-Down Shooter.
+- Único nivel donde debes enfrentarte a numerosos enemigos.
+- Mecánica de recuperación de vida mediante objetos.
+- Proyecto sin fines de lucro y con recursos mayoritariamente no propios.
 
-## Código Principal
+📂 **Estructura del Repositorio**
+- `The Witch Shiinim/main.asm`: El corazón del juego. Aquí encontrarás el código fuente principal del juego, donde se implementa la lógica del mismo.
+- `The Witch Shiinim/Recursos/`: Contiene los recursos utilizados en el juego, como gráficos y sonidos.
+- `The Witch Shiinim.sln/`: Solución del proyecto en Visual Studio.
+- `README.md/`: Estás aquí! El archivo que proporciona información sobre el repositorio.
 
-- El código principal se encuentra en el archivo `main.asm`.
-- Se utiliza la librería MASM32 para la programación en Windows.
-- El juego se basa en un bucle principal que maneja la lógica del juego, incluyendo el movimiento del jugador, las colisiones y la puntuación.
-
-## Instrucciones de Ejecución
-
-1. Clona el repositorio en tu sistema.
+🧰 **Instrucciones de Uso**
+1. Clona o descarga este repositorio.
    ```bash
    git clone https://github.com/MiinishBatUANL/The-Witch-Shiinim-MASM32.git
    ```
+3. Abre el código fuente en `The Witch Shiinim/main.asm` para explorar el código en ensamblador.
+4. Compila el código usando MASM32 u otro ensamblador compatible.
+5. Ejecuta el juego y disfruta de "The Witch Shiinim".
 
-2. Abre el proyecto utilizando MASM32 para ensamblar y compilar el código.
-   
-3. Ejecuta el juego.
+🎮 **Instrucciones de Uso**
+- Enter: Iniciar el juego en la pantalla principal.
+- WASD: Teclas para mover el personaje.
+- Space: Atacar con bolas de fuego.
 
-## Licencia y Uso
+👩‍💻 **Contribuciones**
+¡Las contribuciones son bienvenidas! Si deseas mejorar el juego o corregir errores, no dudes en crear un pull request. Recuerda que este es un proyecto académico finalizado, ¡así que la colaboración es más que bienvenida!
 
-- Este juego fue creado sin fines de lucro.
-- La mayoría de los recursos utilizados en el juego no son de mi propiedad y se utilizaron con fines educativos y de práctica.
-- Este proyecto se desarrolló como parte de un proyecto escolar para la asignatura "Lenguaje Ensamblador" de la Lic. Multimedia y Animación Digital de la Facultad Ciencias Físico y Matemáticas de la UANL.
+📄 **Licencia**
+Este proyecto se comparte bajo una licencia de código abierto. Consulta el archivo LICENSE para obtener más detalles.
 
-Asegúrate de respetar los derechos de autor de los recursos utilizados y de utilizarlos únicamente con fines educativos.
+- Creado como proyecto escolar para fines académicos y de aprendizaje.
 
-## Agradecimientos
+🌟 **Agradecimientos**
+Queremos agradecer a todos los autores y creadores de recursos de terceros utilizados en este proyecto. Sin su trabajo, "The Witch Shiinim" nunca se hubiera materializado.
 
-Agradecimientos a la librería MASM32 por hacer posible este proyecto.
+¡Gracias por visitar mi repositorio! Espero que disfrutes explorando "The Witch Shiinim" y que este proyecto pueda servir como una muestra de mi trabajo en lenguaje ensamblador.
 
-¡Diviértete jugando "The Witch Shiinim"!
+Diviértete jugando y explorando el código fuente. 😄🎮
+
