@@ -33,7 +33,7 @@
 
 ## 📸 **Capturas de Pantalla**
 ![Captura de Pantalla 1](/The%20Witch%20Shiinim/Recursos/screenshot1.png)
-![Captura de Pantalla 2](/The%20Witch%20Shiinim/Recursos/screenshot2.png)
+![Captura de Pantalla 2](/The%20Witch%20Shiinim/Recursos/gameover.bmp)
 
 ## 🧰 **Instrucciones de Uso**
 
