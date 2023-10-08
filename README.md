@@ -1,4 +1,4 @@
-# The Witch Shiinim - Videojuego en Ensamblador
+# The Witch Shiinim
 
 ¡Bienvenido al repositorio de "The Witch Shiinim"! Este es un videojuego desarrollado como parte del curso de Lenguaje Ensamblador en la Licenciatura en Multimedia y Animación Digital de la Facultad de Ciencias Físico y Matemáticas de la Universidad Autónoma de Nuevo León.
 
@@ -45,7 +45,7 @@
 4. Compila el código usando MASM32 u otro ensamblador compatible.
 5. Ejecuta el juego y disfruta de "The Witch Shiinim".
 
-## 🎮 **Instrucciones de Uso**
+## 🎮 **Controles**
 
 - Enter: Iniciar el juego en la pantalla principal.
 - WASD: Teclas para mover el personaje.
