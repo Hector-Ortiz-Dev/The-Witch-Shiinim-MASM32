@@ -4,7 +4,7 @@
 
 ## 🧙‍♀️ **Descripción del Juego**
 
-"The Witch Shiinim" es un videojuego de disparos en perspectiva desde arriba desarrolloado con el lenguaje Ensamblador. En este juego, tu objetivo principal es derrotar a los enemigos para completar el nivel. Ten cuidado, ya que cada vez que tocas a un enemigo, pierdes vidas. Sin embargo, puedes recuperar vida recolectando objetos dentro del juego.
+"The Witch Shiinim" es un videojuego de disparos en perspectiva desde arriba desarrollado con el lenguaje Ensamblador. En este juego, tu objetivo principal es derrotar a los enemigos para completar el nivel. Ten cuidado, ya que cada vez que tocas a un enemigo, pierdes vidas. Sin embargo, puedes recuperar vida recolectando objetos dentro del juego.
 
 ## 🕹️ **Características Destacadas**
 
