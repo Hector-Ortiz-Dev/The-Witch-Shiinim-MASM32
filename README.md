@@ -63,7 +63,7 @@ Este proyecto se comparte bajo una licencia de código abierto. Consulta el arch
 
 ## 🌟 **Agradecimientos**
 
-Queremos agradecer a todos los autores y creadores de recursos de terceros utilizados en este proyecto. Sin su trabajo, "The Witch Shiinim" nunca se hubiera materializado.
+Quiero agradecer a todos los autores y creadores de recursos de terceros utilizados en este proyecto. Sin su trabajo, "The Witch Shiinim" nunca se hubiera materializado.
 
 ¡Gracias por visitar mi repositorio! Espero que disfrutes explorando "The Witch Shiinim" y que este proyecto pueda servir como una muestra de mi trabajo en lenguaje ensamblador.
 
